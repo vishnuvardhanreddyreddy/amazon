@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ktm 
 mt 15
 pulsur
 yamaha
 td5dtyftfu
+=======
+uififiuvbujbgkjvn   
+>>>>>>> 31625724730dccd7562c62604ce74b3af5b1b8ac
